@@ -1,2 +1,2 @@
 # just-stuff
-stuff fro the Dev class nothing important.
+stuff for the Dev class nothing important.
